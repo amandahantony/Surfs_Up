@@ -11,6 +11,9 @@ First we imported the necessary dependencies, Python SQL toolkit and object rela
 
 ![June Stats](Images/June_Stats.png)
 
-2) 
+2) Similar to deliverable 1, we filtered the data column of the Measurements table to now extract all the temperatures from the month of June. The image below shows the summary statistics for December temperatures. 
+
+![December Stats](Images/Dec_Stats.png)
+
 ### Key Differences
 * aasdkas
