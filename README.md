@@ -16,4 +16,9 @@ First we imported the necessary dependencies, Python SQL toolkit and object rela
 ![December Stats](Images/December_Stats.png)
 
 ### Key Differences
-* aasdkas
+* Looking at the two images above, the average temperature in Hawaii during the month of June is approximately 3.9 F higher than the average temperature in December. 
+* The temperatures go as low as 64 F in June and 56 F in December.
+* The temperatures go as high as 85 F in June and 83 F in December. 
+
+## Summary 
+Through this analysis it is apparent that the temperatures are slightly higher in June compared to December. Higher temperatures can be related to higher ice cream sales. Additional analysis can be done to look at the average temperatures of the summer months and correlate that to ice cream sales. The hottest month in Hawaii turns out to be August. We can expect ice cream sales to be slightly higher during this month. We can also do an analysis to look at the average precipitation during month to see how that can potentially affect surfing. The winter months in Hawaii are the best for surfing, so an analysis on precipitation in those months was done. 
